@@ -1,4 +1,4 @@
-package com.ecommerce.payment_service;
+package com.ecommerce.paymentservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
